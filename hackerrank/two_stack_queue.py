@@ -1,4 +1,5 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+#https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem
 
 n = int(input())
 top = []
